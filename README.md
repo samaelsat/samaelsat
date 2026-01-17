@@ -1,36 +1,36 @@
 # 💫 About Me:
-🎯 Mission: Transforming data into actionable insights and building intelligent solutions
+🎯 Mission: Transforming data into actionable insights and building intelligent solutions<br>
 📈 Currently on a journey to becoming a Data Scientist, working with diverse datasets to uncover patterns and drive decision-making
 
-<b>🔬 What I Do:<b>
-📊 Analyzing complex datasets to extract meaningful insights
-🔮 Building predictive models to forecast trends and outcomes
-🤖 Developing Machine Learning projects that solve real-world problems
-🌐 Exploring IoT and Robotics to create smart, connected solutions
-💻 Constantly learning and experimenting with cutting-edge technologies
+🔬 **What I Do:<br>**
+📊 Analyzing complex datasets to extract meaningful insights<br>
+🔮 Building predictive models to forecast trends and outcomes<br>
+🤖 Developing Machine Learning projects that solve real-world problems<br>
+🌐 Exploring IoT and Robotics to create smart, connected solutions<br>
+💻 Constantly learning and experimenting with cutting-edge technologies<br>
 
-<b>💼 Current Focus<b>
-🔭 Working on:
-📊 Data Analysis projects with real-world datasets
-🔮 Predictive modeling and forecasting
-🤖 Machine Learning applications
-🌐 IoT-based smart systems
-🦾 Robotics and automation projects
+💼 **Current Focus<br>**
+🔭 Working on:<br>
+📊 Data Analysis projects with real-world datasets<br>
+🔮 Predictive modeling and forecasting<br>
+🤖 Machine Learning applications<br>
+🌐 IoT-based smart systems<br>
+🦾 Robotics and automation projects<br>
 
-🌱 Learning:
+🌱**Learning:<br>**
 
-Advanced Machine Learning algorithms
-Deep Learning and Neural Networks
-Big Data technologies
-Cloud platforms (AWS, Azure, GCP)
-Computer Vision and NLP
+-Advanced Machine Learning algorithms<br>
+-Deep Learning and Neural Networks<br>
+-Big Data technologies<br>
+-Cloud platforms (AWS, Azure, GCP)<br>
+-Computer Vision and NLP<br>
 
-🎯 2026 Goals:
+**🎯 2026 Goals:<br>**
 
-Build 10+ ML projects
-Contribute to open-source data science projects
-Master advanced AI/ML techniques
-Create innovative IoT solutions
+Build 10+ ML projects<br>
+Contribute to open-source data science projects<br>
+Master advanced AI/ML techniques<br>
+Create innovative IoT solutions<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarab._j_singh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarabjeet-singh-01b697326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samaelsat8@gmail.com) 
